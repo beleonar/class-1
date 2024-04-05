@@ -1,0 +1,1 @@
+2.- Cree un nuevo archivo en la carpeta raíz del repositorio, agreguelo al repositorio y luego agreguelo al "staging area" (capture 2.1). Luego, realice una confirmación resumida (deje un mensaje corto sin usar la ventana de mensajes usada en el punto anterior). Haga una captura mostrando el comando que usó y que muestre que la confirmación se realizo exitosamente (captura 2.2).
